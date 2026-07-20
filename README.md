@@ -156,6 +156,6 @@ java day3.SimpleLoanPaymentCalculator
 * The displayed monthly payment is rounded to the nearest whole dollar using `Math.round()`.
 
 ## Author
-
-Created as a Java practice project to demonstrate user input, mathematical computations, financial calculations, and control flow using `switch` statements.
+Ishaq Taj
+QA Automation Engineer | Java | Selenium | Test Automation
 

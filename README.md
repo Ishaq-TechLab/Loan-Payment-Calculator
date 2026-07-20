@@ -1,4 +1,4 @@
-# Java Simple Loan Payment Calculator
+# Java Loan Payment Calculator
 
 ## Overview
 
